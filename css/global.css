@@ -1,20 +1,20 @@
 /* Colors */
 
 /*
-60% of #CCF1F8 - Primary
-30% of #F8CCF1 - Secondary 
-10% of #F1F8CC - Accent
+60% of #08C0F7 - Primary
+30% of #F708C0 - Secondary 
+10% of #C0F708 - Accent
 */
 
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #CCF1F8;
+--primaryColor: #08C0F7;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: #F8CCF1;
+--secondaryColor: #F708C0;
 
 /* var(--accentColor) !important; */
---accentColor: #F1F8CC;
+--accentColor: #C0F708;
 
 }
