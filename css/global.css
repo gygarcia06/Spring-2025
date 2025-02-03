@@ -1,0 +1,20 @@
+/* Colors */
+
+/*
+60% of #CCF1F8 - Primary
+30% of #F8CCF1 - Secondary 
+10% of #F1F8CC - Accent
+*/
+
+:root {
+
+/* var(--primaryColor) !important; */
+--primaryColor: #CCF1F8;
+
+/* var(--secondaryColor) !important; */
+--secondaryColor: #F8CCF1;
+
+/* var(--accentColor) !important; */
+--accentColor: #F1F8CC;
+
+}
