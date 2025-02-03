@@ -9,12 +9,12 @@
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #08C0F7;
+--primaryColor: #366C62;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: #F708C0;
+--secondaryColor: #62366C;
 
 /* var(--accentColor) !important; */
---accentColor: #C0F708;
+--accentColor: #6C6236;
 
 }
