@@ -37,3 +37,15 @@
 .col:nth-of-type(9) {
     background-color: brown;
 }
+
+.col:nth-of-type(10) {
+    background-color: cyan;
+}
+
+.col:nth-of-type(11) {
+    background-color: lightcoral;
+}
+
+.col:nth-of-type(12) {
+    background-color: darkgrey;
+}
