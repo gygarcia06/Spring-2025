@@ -8,7 +8,7 @@ class Footer extends HTMLElement {
     connectedCallback() {
 
 
-        fetch('/components/header.html')
+        fetch('/components/footer.html')
         .then(response => {
           if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
@@ -32,4 +32,4 @@ class Footer extends HTMLElement {
     }
   }
   
-  customElements.define('footer-component', Header);
+  customElements.define('footer-component', Footer);
