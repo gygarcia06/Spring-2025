@@ -45,6 +45,6 @@
     border-bottom: 1px solid #dddddd;
 }
 
-.content-table tbody tr {
+.content-table tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
 }
