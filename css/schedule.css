@@ -2,7 +2,7 @@
 @import 'main.css';
 
 .wrapper-body {
-    background-image: ("/images/carousel/Photography-1.jpg");
+    background-image: url("/images/square/About-Us-Pic.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
