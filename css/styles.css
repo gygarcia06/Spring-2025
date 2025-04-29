@@ -42,7 +42,7 @@ p {
 
 #custom-clip-path {
     width:100%;
-    height: 200px;
+    height: 100px;
     background-color: pink !important;
     clip-path: polygon(0 0, 100% 0, 100% 5%, 0 5%);
     position: relative;
