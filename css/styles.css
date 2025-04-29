@@ -16,6 +16,10 @@ p {
     color: #ffffff;
 }
 
+.blinn-fa-icon:hover {
+    transform: scale(1.1);
+}
+
 .blinn-fa-container a {
     color: #ffffff !important;
 }
