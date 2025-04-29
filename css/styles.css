@@ -21,7 +21,7 @@ p {
 }
 
 .blinn-fa-container {
-    background-color: var(--secondaryColor) !important;
+    background-color: pink !important;
     padding: 50px;
 }
 
