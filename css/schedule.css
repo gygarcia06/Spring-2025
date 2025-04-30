@@ -29,6 +29,8 @@
     max-width: 1000px;
     margin: auto;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 30px
 }
 
 .content-table thead tr th {
