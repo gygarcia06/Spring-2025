@@ -8,11 +8,11 @@
 }
 
 .carousel-control-prev-icon {
-    background-color: black;
+    color: #000000 !important;
 }
 
 .carousel-control-next-icon {
-    background-color: black;
+    color: #000000 !important;
 }
 
 p {
