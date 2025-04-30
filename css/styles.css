@@ -7,6 +7,14 @@
     font-size: 35px;
 }
 
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+}
+
 p {
     font-family: var(--fontFamily) !important;
 }
